@@ -137,3 +137,6 @@
 522 IF P$ = "" GOTO 1
 
 523 IF P$ >< "" GOTO 1
+
+RUN
+
